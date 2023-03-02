@@ -1,4 +1,4 @@
-### I love puter
+### Oh hell nah,Quited of scripts
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Trashzinhookz&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
