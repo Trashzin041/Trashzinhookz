@@ -1,9 +1,9 @@
 ### I love puter
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=yukihooked&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Trashzinhookz&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
 
-[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihooked&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trashzinhookz&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
 
 
 <!--
