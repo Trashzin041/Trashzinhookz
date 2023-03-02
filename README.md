@@ -1,4 +1,10 @@
-### Hi there 👋
+### I love puter
+
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=yukihooked&theme=github_dark)](https://github.com/yukihooked/github-readme-stats)
+
+[![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukihooked&theme=github_dark)](https://github.com/yukihooked/github-readme-stats)
+
 
 <!--
 **Trashzinhookz/Trashzinhookz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
