@@ -1,4 +1,4 @@
-### Oh hell nah,Quited of scripts
+### Ex Developer of lua scripts for roblox.
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Trashzinhookz&theme=github_dark)](https://github.com/Trashzinhookz/github-readme-stats)
